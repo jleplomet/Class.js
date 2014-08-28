@@ -1,5 +1,6 @@
 {
   "name": "class.js",
   "main": "class.js",
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": []
 }
